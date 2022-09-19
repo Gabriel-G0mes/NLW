@@ -8,7 +8,7 @@
 
 - Através desse projeto consegui aprender e colocar em prática novas funções do css.
 
-- Muitas dicas sobre soft skills támbem foram apresentadas nesse evento
+- Muitas dicas sobre soft skills támbem foram apresentadas nesse evento.
 
 ## 👨‍💻 Visualização do projeto
 
